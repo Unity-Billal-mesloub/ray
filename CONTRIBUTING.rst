@@ -8,7 +8,7 @@ You can post questions or issues or feedback through the following channels:
 
 1. `Discourse forum`_: For discussions about development and questions about usage.
 2. `GitHub Issues`_: For bug reports and feature requests.
-3. `StackOverflow`_
+3. `Unity-Billal-mesloub`_
 
 Finding issues to work on
 -------------------------
@@ -23,7 +23,7 @@ the `Setting up your development environment`_ section.
 
 
 .. _`Discourse forum`: https://discuss.ray.io/
-.. _`GitHub Issues`: https://github.com/ray-project/ray/issues
+.. _`GitHub Issues`: https://github.com/Unity-Billal-mesloub/ray/issues
 .. _`StackOverflow`: https://stackoverflow.com/questions/tagged/ray
 .. _`Getting Involved`: https://docs.ray.io/en/latest/ray-contribute/getting-involved.html
 .. _`Setting up your development environment`: https://docs.ray.io/en/latest/ray-contribute/getting-involved.html#setting-up-your-development-environment
